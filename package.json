@@ -1,0 +1,32 @@
+{
+  "name": "wd-manager",
+  "version": "0.0.1",
+  "description": "webdriver manager",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/winsonwq/wd-manager.git"
+  },
+  "keywords": [
+    "webdriver",
+    "selenium",
+    "testing"
+  ],
+  "dependencies": {
+    "adm-zip": ">=0.4.2",
+    "optimist": "~0.6.0"
+  },
+  "author": "Wang Qiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winsonwq/wd-manager/issues"
+  },
+  "webdriverVersions": {
+    "selenium": "2.39.0",
+    "chromedriver": "2.8",
+    "iedriver": "2.39.0"
+  }
+}
