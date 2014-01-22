@@ -6,6 +6,9 @@
   "scripts": {
     "test": ""
   },
+  "bin": {
+    "wd-manager": "./bin/wd-manager"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/winsonwq/wd-manager.git"
