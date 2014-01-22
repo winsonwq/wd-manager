@@ -3,6 +3,13 @@ wdm
 
 ## How to use
 
+Installation
+
+```
+$ npm install wdm -g
+```
+Then check
+
 ```
 $ wdm
 
