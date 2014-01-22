@@ -7,7 +7,7 @@
     "test": ""
   },
   "bin": {
-    "wd-manager": "./bin/wd-manager"
+    "wdm": "./bin/wdm"
   },
   "repository": {
     "type": "git",

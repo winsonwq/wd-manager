@@ -4,9 +4,9 @@ wd-manager
 ## How to use
 
 ```
-$ wd-manager
+$ wdm
 
-Usage: wd-manager <command>
+Usage: wdm <command>
 Commands:
   update: install or update selected binaries
   start: start up the selenium server
@@ -27,5 +27,5 @@ Please specify one command
 _Only being used in `start` command_
 
 ```
-$ wd-manager start -- -role node -hub http://localhost:4444/grid/register
+$ wdm start -- -role node -hub http://localhost:4444/grid/register
 ```
