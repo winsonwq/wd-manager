@@ -1,7 +1,7 @@
 {
-  "name": "wd-manager",
+  "name": "wdm",
   "version": "0.0.1",
-  "description": "webdriver manager",
+  "description": "selenium webdriver manager",
   "main": "lib/index.js",
   "scripts": {
     "test": ""

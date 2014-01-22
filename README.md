@@ -1,4 +1,4 @@
-wd-manager
+wdm
 ==========
 
 ## How to use
