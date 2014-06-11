@@ -29,8 +29,8 @@
     "url": "https://github.com/winsonwq/wd-manager/issues"
   },
   "webdriverVersions": {
-    "selenium": "2.41",
+    "selenium": "2.42.2",
     "chromedriver": "2.10",
-    "iedriver": "2.41"
+    "iedriver": "2.42.0"
   }
 }
